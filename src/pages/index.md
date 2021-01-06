@@ -7,8 +7,8 @@ sections:
     image_alt: App preview
     title: This Is A Big Hero Headline
     content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+      SEO359 is the Digital Marketing solution for Chinese companies who want to
+      get more orders from the international market.
     actions:
       - label: Learn More
         url: /features
