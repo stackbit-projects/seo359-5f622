@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    title: This Is A Big Hero Headline
+    title: Go Global
     content: >-
       SEO359 is the Digital Marketing solution for Chinese companies who want to
       get more orders from the international market.
