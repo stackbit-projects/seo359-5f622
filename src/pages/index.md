@@ -7,8 +7,8 @@ sections:
     image_alt: App preview
     title: Go Global
     content: >-
-      SEO359 is the Digital Marketing solution for Chinese companies who want to
-      get more orders from the international market.
+      SEO359 is the Digital Marketing solution for Chinese SME companies who
+      want to get more orders from the international market.
     actions:
       - label: Learn More
         url: /features
